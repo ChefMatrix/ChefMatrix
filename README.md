@@ -4,7 +4,7 @@ I'm a Cyber Security Analysis whom is obsessed with building secure systems, lea
 
 ---
 
-🛠️ I specialize in:
+## 🛠️ I specialise in:
 - Threat Detection & Response (EDR, SIEM, Incident Handling)
 - Adversary Simulation (Red & Blue Team TTPs)
 - Network Security Architecture (Proxmox, VLANs, Threat Simulation Labs)
@@ -22,14 +22,14 @@ This GitHub is a curated mix of:
 
 ---
 
-🧠 **Currently Studying**
+## 🧠 Currently Studying
 - Advanced Network & Web App Penetration Testing
 - Threat Hunting & Detection Engineering in Azure Environments
 - Building scalable, modular home lab environments
 
 ---
 
-🖥 **Projects**
+## 🖥 Projects
 - Creating and optimising my home network/lab
 - Trying to learn 1% everyday
 - Engaging in BBP and VDP
