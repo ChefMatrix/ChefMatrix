@@ -36,4 +36,4 @@ This GitHub is a curated mix of:
 
 > I document everything. Read my writeups. Fork my labs. Break stuff with me.
 
-🔗 [LinkedIn](#) • [TryHackMe](#) • [HackTheBox](#) • [Portfolio Website](https://chefmatrix.github.io/index.html)
+🔗 [LinkedIn](https://www.linkedin.com/in/ali-a-917650219/) • [TryHackMe](#) • [HackTheBox](#) • [Portfolio Website](https://chefmatrix.github.io/index.html)
